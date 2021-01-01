@@ -1,3 +1,3 @@
 # Procedural-Cities
 
-![Procedural](/screen.jpg?raw=true "City")
+![Procedural](/screen.JPG?raw=true "City")
